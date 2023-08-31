@@ -1,5 +1,4 @@
-# CSC4110-assignment1
-
+# Github and git confilct
 Ahmad Qureshi
 
 Hd3563
