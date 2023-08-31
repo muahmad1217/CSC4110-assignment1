@@ -1,4 +1,5 @@
 # Github and git confilct
-Ahmad Qureshi
+# Github and git
+#Ahmad Qureshi
 
 Hd3563
