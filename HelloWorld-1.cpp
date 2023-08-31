@@ -9,7 +9,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Testing git merge!";
+    cout<<"Testing git merge!!";
       
     return 0; 
 } 
